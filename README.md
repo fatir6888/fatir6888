@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fatir6888 b
+- 👋 Hi, I’m @fatir6888 😄
 
 <!---
 fatir6888/fatir6888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
